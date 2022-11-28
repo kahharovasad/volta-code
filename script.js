@@ -2050,7 +2050,7 @@ var data = [
 ];
 
 var budget = "$25,000";
-var shareofVoice = "100%";
+var shareofVoice = "13%";
 var flight = "4 Weeks";
 
 function calculation() {
